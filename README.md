@@ -10,7 +10,7 @@ This project showcases several common image processing techniques implemented us
 
 ### Input: 
 - **Input Image**  
-  ![Input Image](./reports/potrait_lady.png)
+  ![Input Image](./reports/portrait_lady.png)
 
 ### Output:
 

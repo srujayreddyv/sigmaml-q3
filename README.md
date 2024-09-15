@@ -18,16 +18,16 @@ This project showcases several common image processing techniques implemented us
   ![Contrast Enhanced Image](./reports/outputs/contrast_enhanced_image.png)
 
 - **Binary Mask with Otsu’s Thresholding**  
-  ![Binary Mask with Otsu’s Thresholding](./images/binary_mask_otsu.png)
+  ![Binary Mask with Otsu’s Thresholding](./reports/outputs/binary_mask_otsu.png)
 
 - **Edge Detection using Morphological Gradient**  
-  ![Edge Detection using Canny](./images/morphological_edges.png)
+  ![Edge Detection using Canny](./reports/outputs/morphological_edges.png)
   
 - **Edge Detection using Canny Edge Detector**  
-  ![Edge Detection using Canny](./images/canny_edges.png)
+  ![Edge Detection using Canny](./reports/outputs/canny_edges.png)
 
 - **Image Segmentation with GrabCut**  
-  ![Image Segmentation with GrabCut](./images/segmented_image_grabcut.png)
+  ![Image Segmentation with GrabCut](./reports/outputs/segmented_image_grabcut.png)
 
 ### License
 
